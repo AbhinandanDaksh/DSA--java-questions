@@ -1,0 +1,32 @@
+public class PatternP1 {
+    public static void main( String[] args) {
+        for(int i= 0;i<5;i++){
+            for(int z=0;z<4-i;z++){
+                System.out.print(" ");
+            }
+            for(int j =0; j<2*i+1;j++){
+                System.out.print("*");
+                // k++;
+            }
+            System.out.println();
+        }
+        for(int i= 0;i<5;i++){
+            for(int z=1;z<i+1;z++){
+                System.out.print(" ");
+            }
+            for(int j =9-2*i; j>0;j--){
+                System.out.print("*");
+                // k++;
+            }
+            System.out.println();
+        }
+        // for(int i=0;i<5;i++){
+            // for(int j =0; j<i+1;j++){
+                // System.out.print("~");
+            // }
+            // System.out.println();
+        }
+
+    }
+    
+
