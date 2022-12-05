@@ -3,7 +3,7 @@ import java.util.List;
 
 public class BracketBack {
     static List<String> generate(int n){
-        List<String> output= new ArrayList<>();
+        List<String> result= new ArrayList<>();
         helaper(result, "", 0, 0, n);
         return result;
 
