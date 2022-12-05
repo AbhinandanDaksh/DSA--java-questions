@@ -4,8 +4,8 @@ import java.util.List;
 public class BracketBack {
     static List<String> generate(int n){
         List<String> output= new ArrayList<>();
-        helaper(output, "", 0, 0, n);
-        return output;
+        helaper(result, "", 0, 0, n);
+        return result;
 
     }
     static List<String> helaper(List<String> ans,String currebracket,int open,int close,int max){
