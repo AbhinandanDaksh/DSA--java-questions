@@ -24,3 +24,4 @@ public static float diresaction(String path) {
         System.out.print(diresaction(path));
     }
 }
+// complexity is O(n)
