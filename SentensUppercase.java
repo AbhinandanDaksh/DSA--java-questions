@@ -20,3 +20,4 @@ public class SentensUppercase {
         System.out.println(toUpperCase(str));
     }
 }
+// complexity = O(n)
