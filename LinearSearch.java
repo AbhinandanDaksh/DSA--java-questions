@@ -20,3 +20,5 @@ public class  LinearSearch{
         }
     }
 }
+
+// time complexity = O(n)
