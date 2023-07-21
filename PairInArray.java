@@ -19,4 +19,4 @@ public class PairInArray{
         
     }
 }
-// compexity =O(n)
+// compexity =O(n^2)
