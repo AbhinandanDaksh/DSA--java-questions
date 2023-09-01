@@ -1,4 +1,4 @@
-class RottenOrange {
+class RottenOrange994 {
     static class Edge{
         int sor;
         int des;
