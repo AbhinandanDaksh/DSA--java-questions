@@ -20,3 +20,4 @@ public class ReverseArray {
         
     }
 }
+// 6 5 2 3 4
